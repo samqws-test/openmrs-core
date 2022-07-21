@@ -1121,7 +1121,7 @@
 		<springVersion>5.3.22</springVersion>
 		<hibernateVersion>5.6.10.Final</hibernateVersion>
 		<hibernateSearchVersion>5.11.10.Final</hibernateSearchVersion>
-		<luceneVersion>5.5.5</luceneVersion>
+		<luceneVersion>7.5.0</luceneVersion>
 		<aspectjVersion>1.9.9.1</aspectjVersion>
 		<jacksonVersion>2.13.3</jacksonVersion>
 		<junitVersion>5.8.2</junitVersion>
